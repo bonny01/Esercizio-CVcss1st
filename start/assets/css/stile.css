@@ -1,0 +1,141 @@
+/* IMPOSTAZIONI GENERALI */
+
+
+/* HEADER */
+
+
+header {
+    background-color: #00A0C6;
+    padding: 11%;
+    border-bottom: solid 15px #027794; 
+    text-align: center;
+}
+
+h1, h2 {
+    align-self: center;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    padding: 0 20px;
+}
+
+header h1 {
+    font-size: 200%;
+    line-height: 1.5;
+}
+
+
+span {
+    background-color: white;
+    color: #00A0C6;
+}
+
+header h2 {
+    color: #000;
+    padding: 25px;
+    font-size: x-large;
+}
+
+
+/* MAIN */
+
+main {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    padding: 20px;
+}
+
+main h2{
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-left: 28%;
+    color:  #027794;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+
+main figure img {
+    border: solid grey 1px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3%;
+    margin-bottom: 10px;
+    display: block;
+}
+
+main figcaption {
+    padding-bottom: 5%;
+    padding-left: 20%;
+}
+
+main blockquote {
+    display: block;
+    text-align: center;
+    font-size: 1em;
+    margin: 20px 10px 20px 10px;
+    padding: 20px 10px 20px 10px;
+    background-color: #e3e3e3;
+    border-radius: 10px;
+    font-style: italic;
+}
+
+main hr {
+    border-style: dashed;
+}
+
+strong {
+    color: #00A0C6;
+}
+
+mark {
+    background-color: #027794;
+    color: white;
+}
+
+div h3{
+    font-weight: bold;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+
+a {
+    color: red;
+}
+
+
+/* FOOTER */
+footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #353535;
+    color: white;
+    border-top: solid 10px #00A0C6;
+    padding: 5%;
+    
+}
+
+footer small{
+    color: lightgray;
+}
+
+footer kbd{
+    color: yellow;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+/* font
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+/*
